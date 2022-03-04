@@ -1,0 +1,22 @@
+html {
+    height: 100vh;
+    background-color: rgb(70, 69, 69);
+}
+header {
+    text-align: center;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    color: white;
+}
+button {
+    font-size: 30px;
+    cursor: pointer;
+    padding: 0.25rem;
+}
+div {
+    font-size: 80px;
+}
